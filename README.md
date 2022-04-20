@@ -17,7 +17,7 @@ Webpack Manifest
 ## References
 
 Name: Jacob Liberty
-https://github.com/JacobGit3/Social-Media-Mongo
+https://github.com/JacobGit3/Budget-Tracker-PWA
 for some bug fixes.
 
 ## Github repo link
